@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="tvname">Name</string>
+    <string name="tvgenre">Genre</string>
+    <string name="tvyear">Year</string>
+    <string name="tvrating">Rating</string>
+    <string name="insert">INSERT</string>
+    <string name="show">SHOW LIST</string>
+</resources>
